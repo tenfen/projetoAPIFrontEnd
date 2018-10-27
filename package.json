@@ -1,0 +1,16 @@
+{
+  "name": "tarefa",
+  "version": "1.0.0",
+  "description": "implementação front-end da lista de tarefas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cláudio Tenfen",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "bootstrap": "^4.1.3",
+    "ng2-toasty": "^4.0.3"
+  }
+}
